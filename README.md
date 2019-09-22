@@ -22,7 +22,7 @@
 ### <a name="code-languages"></a> Primer
 This section contains links to additional documentation for technologies used in this build system:
 
-###### PUG
+##### PUG
 PUG is a template engine offering a wealth of features including:
 * shorthand html syntax.
 * interpolation through variables, includes, & layouts.
@@ -32,7 +32,7 @@ PUG is a template engine offering a wealth of features including:
 
 [See Pug Documentation](https://pugjs.org).
 
-###### SASS
+##### SASS
 SASS offers two syntax formats, identifiable by the file extension used (`.scss` or `.sass`). This framework uses the `.scss` format.
 
 [See Sass Documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html).
